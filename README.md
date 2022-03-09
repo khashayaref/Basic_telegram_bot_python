@@ -1,4 +1,4 @@
-# stranger_telegram_bot
+# Basic_telegram_bot_python
 
 ## How to Run
 First add `src` to `PYTHONPATH`
